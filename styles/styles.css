@@ -48,6 +48,7 @@ ul {
 table {
     width: 100%;
     text-align: left;
+    margin-bottom: 20px;
 }
 
 .small-cell {
@@ -65,4 +66,11 @@ table {
 
 .bg-azure {
     background-color: #dfe5f2;
+}
+
+footer {
+    padding: 1px;
+    background-color: #313a6b;
+    color: white;
+    text-align: center;
 }
