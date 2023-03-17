@@ -1,11 +1,37 @@
+main {
+    width: 80%;
+    margin: auto;
+}
+
 header {
     background-color: #9cd6f4;
     background-image: url("./../img/pattern.png");
     background-size: 40%;
 }
 
+h1 {
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
 #logo {
-    width: 20%;
-    height: auto;
-    padding: 25px 75px;
+    width: 10%;
+    padding: 25px 0px;
+    margin: 0 10%;
+}
+
+.text-blue{
+    color: #93c5ff;
+}
+
+.text-gray{
+    color: #89837e;
+}
+
+.font-small {
+    font-size: 11px;
+}
+
+.subtitles{
+    line-height: 5%;
 }
