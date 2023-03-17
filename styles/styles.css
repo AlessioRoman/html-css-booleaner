@@ -29,9 +29,40 @@ h1 {
 }
 
 .font-small {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .subtitles{
     line-height: 5%;
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+ul {
+    padding-left:0;
+    list-style-position:inside; 
+}
+
+table {
+    width: 100%;
+    text-align: left;
+}
+
+.small-cell {
+    width: 25%;
+}
+
+.large-cell {
+    width: 50%;
+}
+
+.text-white {
+    color: white;
+    background-color: #81a7fb;
+}
+
+.bg-azure {
+    background-color: #dfe5f2;
 }
